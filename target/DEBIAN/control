@@ -1,0 +1,9 @@
+Package: font-atkinson-hyperlegible
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Felix Hungenberg <you@email.com>
+Description: Atkinson Hyperlegible Font
+ A font for greater legibility and readability.
+ Atkinson Hyperlegible, named after the founder of the Braille Institute, has been developed specifically to increase legibility for readers with low vision, and to improve comprehension.
